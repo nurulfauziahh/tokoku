@@ -1,0 +1,29 @@
+.bungkus{
+	margin: 40px;
+	padding: 50px;
+	background-color: #F59A44;
+	min-height: 100%;
+
+}
+
+.isi {
+	background-color: #ddd000;
+	float: left;
+	margin: 20px;
+	display: inline;
+}
+
+.navbar {
+	z-index: 99999;
+	position: fixed;
+	width: 100%;
+}
+
+.gambar img{
+	min-width: 200px;
+}
+
+.jumbotron{
+
+	margin:40px;
+}
